@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34454841/README.md)
-
-
 # One oscillator, four formulations of quantum mechanics
 
 **Path integral, Wigner phase space and Bohmian trajectory simulations of the anharmonic oscillator, each checked against matrix mechanics.**
